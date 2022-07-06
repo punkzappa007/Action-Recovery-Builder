@@ -14,15 +14,15 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/punkzappa007/TECNO-CG8.git'
+        default: 'https://github.com/punkzappa007/android_device_tecno_TECNO-CG8.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'CG8-TWRP'
+        default: 'TWRP-CG8'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecni/CG8'
+        default: 'device/TECNO/CG8'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
